@@ -1,5 +1,5 @@
 
-# H-M-clone-project
+# Lately-clone-project
 It is an AI-based advertising website which create a pages and share on the social media and also to the client to them who search for related data.
 
 # Technology Stack used.
